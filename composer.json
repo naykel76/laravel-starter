@@ -9,7 +9,8 @@
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^9.2",
         "laravel/sanctum": "^2.14.1",
-        "laravel/tinker": "^2.7"
+        "laravel/tinker": "^2.7",
+        "naykel/gotime": "dev-master"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
@@ -57,5 +58,15 @@
         "sort-packages": true
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "repositories": {
+        "naykel/gotime": {
+            "type": "path",
+            "url": "C:\\Users\\nayke\\Desktop\\htdocs\\nk_packages\\gotime",
+            "options": {
+                "symlink": true
+            }
+        }
+    }
+
 }

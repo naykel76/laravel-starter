@@ -1824,7 +1824,7 @@
             "dist": {
                 "type": "path",
                 "url": "C:/Users/nayke/Desktop/htdocs/nk_packages/gotime",
-                "reference": "5b35e4a8ed5c2358889829a0752a8108b8e2500d"
+                "reference": "d29cedfe3a47ae758518e35d274e15741d2dbcd8"
             },
             "require": {
                 "livewire/livewire": "^2.10.3",
